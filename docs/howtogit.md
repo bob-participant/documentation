@@ -1,8 +1,8 @@
-# How to Use Git in Experimentor
+# How to Use Git in ExperimentorX
 
-## Open a terminal in Experimentor
+## Open a terminal in ExperimentorX
 
-1. Sign in [Experimentor](https://experimentor-git.mentoracademy.org) with your Coursera account.
+1. Sign in [ExperimentorX](https://experimentorx.mentoracademy.org) with your Coursera account.
 
 2. Click "New" -> "Terminal" to open the terminal
 

@@ -9,8 +9,8 @@
 - Session 4: September 30, 3:00pm - 4:00pm, EST
 
 ## Task Description
-<!-- The problem description will be posted [here](overview.md) when the study starts. You should submit the following materials at the end of the study: -->
-The problem description will be posted when the study starts. You should submit the following materials at the end of the study:
+The problem description will be posted [here](overview.md) when the study starts. You should submit the following materials at the end of the study:
+<!-- The problem description will be posted when the study starts. You should submit the following materials at the end of the study: -->
 - A final report in Jupyter Notebook (.ipynb)
 - Prediction result on the test dataset
 
@@ -20,7 +20,7 @@ We are using a remote screensharing tool to collect data. You should walkthrough
 **Please turn on [Hangouts video conferencing](https://meet.google.com/nbr-ycsc-cky) in Chrome for communication throughout all the sessions.** Group members should not discuss with each other about the predictive modeling problem (e.g., send emails or chat online) outside the experimental session. 
 
 ## Tools for Collaboration
-Please use [Experimentor](https://experimentor-git.mentoracademy.org) for collaborating. A detailed instruction could be find [here](howtogit.md). 
+Please use [Experimentor](https://experimentorx.mentoracademy.org) for collaborating. A detailed instruction could be find [here](howtogit.md). 
 
 ## Contact
 
