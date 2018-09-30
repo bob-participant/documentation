@@ -5,8 +5,8 @@
 ## Group3 Timeline
 - Session 1: September 22, 3:00pm - 4:00pm, EST
 - Session 2: September 23, 3:00pm - 4:00pm, EST 
-- Session 3: September 29, 3:00pm - 4:00pm, EST 
-- Session 4: September 30, 3:00pm - 4:00pm, EST
+- Session 3: September 30, 3:00pm - 4:00pm, EST 
+- Session 4: October 3, 3:00pm - 4:00pm, EST
 
 ## Task Description
 The problem description will be posted [here](overview.md) when the study starts. You should submit the following materials at the end of the study:
@@ -17,7 +17,7 @@ The problem description will be posted [here](overview.md) when the study starts
 We are using a remote screensharing tool to collect data. You should walkthrough [session 0](session0.md) before the study to install the required tools.
 
 ## Tools for Communication
-**Please turn on [Hangouts video conferencing](https://meet.google.com/nbr-ycsc-cky) in Chrome for communication throughout all the sessions.** Group members should not discuss with each other about the predictive modeling problem (e.g., send emails or chat online) outside the experimental session. 
+**Please only use the Slack channel for communication.** Group members should not discuss with each other about the predictive modeling problem (e.g., send emails or chat online) outside the experimental session. 
 
 ## Tools for Collaboration
 Please use [Experimentor](https://experimentorx.mentoracademy.org) for collaborating. A detailed instruction could be find [here](howtogit.md). 

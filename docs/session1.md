@@ -2,7 +2,6 @@
 
 - Make sure Chrome is installed on your computer
 - Please turn on the Lookback extension for [session1](https://participate.lookback.io/YuaArP?live) and wait for the research team to join
-- Please turn on [Google Hangouts]() using Chrome throughout the session
 
 ## Goal for Session 1
 
